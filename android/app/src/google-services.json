@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428771397210",
+    "project_id": "projectmagang-5e9ba",
+    "storage_bucket": "projectmagang-5e9ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428771397210:android:4f78e7332dac767d4c5263",
+        "android_client_info": {
+          "package_name": "com.mp.projectmagang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-h5Wy53dJaJClOwJzClR3zizReGS2gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
